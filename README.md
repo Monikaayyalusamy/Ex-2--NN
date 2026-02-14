@@ -50,7 +50,7 @@ STEP 10:Plot the error for each iteration <BR>
 STEP 11:Print the accuracy<BR>
 # PROGRAM:
 
-```
+```python
 Developed by : Monika A
 Register No. : 212224240094
 
